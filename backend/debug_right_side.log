@@ -1,0 +1,7664 @@
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 3
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 2
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 16
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 17
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 18
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 19
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 3
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 16
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 17
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 18
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 19
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 16
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 17
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 18
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 19
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 16
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 17
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 18
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 19
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn to your left (showing RIGHT profile)
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: False, Reason: Turn fully sideways to the camera
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Returned early: True
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 0
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 1
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 2
+Stable counter: 2
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 3
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 4
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 5
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 6
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 7
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 8
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 9
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 10
+Stable counter: 2
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 11
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 12
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 13
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 14
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 15
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 16
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 17
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 18
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 19
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 0.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 0
+Progress: 12.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 1
+Progress: 25.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 2
+Progress: 37.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 3
+Progress: 50.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 4
+Progress: 62.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 5
+Progress: 75.0%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 6
+Progress: 87.5%, Ready: False
+---
+Mode: right_side
+Validation OK: True, Reason: 
+Is Frame Usable: True
+Missing metrics: []
+Buffer size: 20
+Stable counter: 7
+Progress: 100.0%, Ready: True
+---
